@@ -39,5 +39,5 @@ subject. Our work intends to scale this to be used for multiple subjects in real
 
 ## Architecture
 
-![Architecture](/mnt/data/extracted_image_1_0.png)
+![Architecture](https://github.com/kkapoor3/Heart-rate-AWS/blob/main/extracted_image_1_0.png)
 
